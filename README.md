@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Vasilije Stanković
-### Software Engineering Student • Backend & Full‑Stack Developer • AI/ML Enthusiast
+### Software Engineering Student • Backend & Full‑Stack Developer 
 
 I build practical software systems, student-service platforms, Java desktop apps, Spring Boot backends, React frontends, and AI/ML experiments.
 
