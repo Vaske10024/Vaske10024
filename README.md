@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Vasilije Stanković
 ### Software Engineering Student • Backend & Full‑Stack Developer 
 
-I build practical software systems, student-service platforms, Java desktop apps, Spring Boot backends, React frontends, and AI/ML experiments.
+I build practical software systems, Java desktop apps, Spring Boot backends, React frontends, and AI/ML experiments.
 
 [![GitHub followers](https://img.shields.io/github/followers/Vaske10024?label=Followers&style=for-the-badge)](https://github.com/Vaske10024)
 [![Profile views](https://komarev.com/ghpvc/?username=Vaske10024&style=for-the-badge)](https://github.com/Vaske10024)
